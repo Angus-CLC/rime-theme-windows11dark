@@ -1,6 +1,6 @@
-# Windows 11 Dark Mode theme for RIME (Windows 11 深色模式小狼毫皮膚)
+# Windows 11 Dark Mode theme for RIME Weasel (RIME 小狼毫 Windows 11 深色模式皮膚)
 
-![Windows 11 theme image](image.png)
+![Windows 11 dark mode theme image](image.png)
 
 ## Install method (安裝方法):
 
@@ -10,9 +10,9 @@
 2. Edit the config file inside that folder: `weasel.custom.yaml` (in Windows).
     
     修改配設文件： `weasel.custom.yaml` (Windows)。
-3. Open [the Windows theme YAML](win_theme.yaml), and edit your config file:
+3. Open [the Windows theme YAML](windows11dark_theme.yaml), and edit your config file:
 
-    打開 [Windows 皮膚 YAML](win_theme.yaml), 然後修改你的配設文件
+    打開 [Windows 皮膚 YAML](windows11dark_theme.yaml), 然後修改你的配設文件
 
     1. If you already have the "patch" section (from `patch:` to the rest of the indented lines after the label), replace that with the entire theme.
     
